@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there, I'm Ashwin [website] 👋
 
-<!--
-**ashwin9999/ashwin9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Developer and a Machine Learning Enthusiast!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working for [SenSource Inc.][work]!
+- 🌱 I’m currently learning Angular...and French 😃
+- 🥅 2020 Goals: Learn more about Information retrieval and Data Mining
+- ⚡ Fun fact: I love to play and watch Soccer ⚽️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Ashwin Mishra" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Ashwin Mishra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ashwin Mishra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Ashwin's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ashwin9999&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_issues=true" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin9999)]()
+
+</details>
+
+[website]: https://ashwin9999.github.io/
+[work]: https://www.sensourceinc.com/
+[instagram]: https://www.instagram.com/__ashwinmishra__/
+[linkedin]: https://www.linkedin.com/in/ashwin-mishra/
