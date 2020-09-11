@@ -2,9 +2,9 @@
 
 #### I'm a Developer and a Machine Learning Enthusiast!
 
-- 🔭 I’m currently working for [SenSource Inc.][work]!
+- 💻 I’m currently working for [SenSource Inc.][work]!
 - 🌱 I’m currently learning Angular...and French 😃
-- 🥅 2020 Goals: Learn more about Information retrieval and Data Mining
+- 🥅 2020 Goals: Learn more about Information Retrieval and Data Mining
 - ⚡ Fun fact: I love to play and watch Soccer ⚽️
 
 ### Connect with me:
