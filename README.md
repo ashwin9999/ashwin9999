@@ -22,8 +22,6 @@
 
   <img align="left" alt="Ashwin's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ashwin9999&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_issues=true" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin9999)]()
-
 </details>
 
 [website]: https://ashwin9999.github.io/
