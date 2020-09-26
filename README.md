@@ -20,7 +20,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Ashwin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashwin9999&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_issues=true&hide=contribs,stars" />
+  <img align="left" alt="Ashwin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashwin9999&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_issues=true&hide=contribs,stars&hide_rank=true" />
   
 </details>
 
