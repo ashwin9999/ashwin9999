@@ -15,7 +15,15 @@
 
 <br />
 
----
+### Programming Languages
+
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="csharp" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="dotnet" width="40" height="40"/>
 
 <details>
   <summary>:zap: Github Stats</summary>
