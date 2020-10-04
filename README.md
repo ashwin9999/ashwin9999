@@ -24,6 +24,14 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="dotnet" width="40" height="40"/>
+  
+### Databases
+
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-plain.svg" alt="dotnet" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-plain-wordmark.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-plain-wordmark.svg" alt="dotnet" width="40" height="40"/>
+
 
 <details>
   <summary>:zap: Github Stats</summary>
