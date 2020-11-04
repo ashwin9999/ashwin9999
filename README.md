@@ -3,7 +3,7 @@
 #### I'm a Developer and a Machine Learning Enthusiast!
 
 - 💻 I’m currently working for [SenSource Inc.][work]!
-- 🌱 I’m currently learning Angular...and French 😃
+- 🌱 I’m currently learning Angular and French 😃
 - 🥅 2020 Goals: Learn more about machine learning 
 - ⚡ Fun fact: I love to play and watch Soccer ⚽️
 
