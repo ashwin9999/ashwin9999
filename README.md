@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ashwin](https://ashwin9999.github.io/) 👋
 
-#### I'm a Developer and a Machine Learning Enthusiast!
+#### I'm a software developer and a machine learning enthusiast!
 
 - 💻 I’m currently working for [SenSource Inc.][work]!
 - 🌱 I’m currently learning Angular and French 😃
