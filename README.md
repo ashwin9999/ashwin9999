@@ -4,8 +4,8 @@
 
 - 💻 I’m currently working for [SenSource Inc.][work]!
 - 🌱 I’m currently learning Angular and French 😃
-- 🥅 2020 Goals: Learn more about machine learning 
-- ⚡ Fun fact: I love to play and watch Soccer ⚽️
+- 🥅 2020 Goals: Learn more about data mining
+- ⚡ Fun fact: I love to play and watch soccer ⚽️
 
 ### Connect with me:
 
