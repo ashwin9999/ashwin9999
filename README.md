@@ -2,10 +2,10 @@
 
 #### I'm a software developer and a machine learning enthusiast!
 
-- 💻 I’m currently working for [SenSource Inc.][work]!
-- 🌱 I’m currently learning Angular and French 😃
-- 🥅 Future Goals: Learn more about data mining and machine learning
-- ⚡ Fun fact: I love to play and watch soccer ⚽️
+- I’m currently working for [SenSource Inc.][work]!
+- I’m currently learning Angular and French 😃
+- Future Goals: Learn more about data mining and machine learning
+- Fun fact: I love to play and watch soccer ⚽️
 
 ### Connect with me:
 
