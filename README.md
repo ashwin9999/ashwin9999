@@ -79,4 +79,5 @@
 [website]: https://ashwin9999.github.io/
 [work]: https://www.sensourceinc.com/
 [instagram]: https://www.instagram.com/__ashwinmishra__/
+[facebook]: https://www.facebook.com/ashwin.mishra99/
 [linkedin]: https://www.linkedin.com/in/ashwin-mishra/
