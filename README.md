@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ashwin](https://ashwin9999.github.io/) 👋
 
-#### I'm a software developer and a machine learning enthusiast!
+#### I'm a software developer and machine learning enthusiast!
 
 - I’m currently working for [SenSource Inc.][work]
 - My interests include machine learning, natural language processing, data mining, information retrieval, and big data.
