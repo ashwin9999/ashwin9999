@@ -1,10 +1,9 @@
 ### Hi there, I'm [Ashwin](https://ashwin9999.github.io/) 👋
 
-#### I'm a software developer and machine learning enthusiast!
+#### I am graduate student at University of California - San Diego pursuing a MS in computer science!
 
-- I’m currently working for [SenSource Inc.][work]
 - My interests include machine learning, natural language processing, data mining, information retrieval, and big data.
-- Fun fact: I love to play and watch soccer ⚽️
+- Fun fact: In my free time, I enjoy reading and writing poems. Also, I love to play and watch soccer ⚽️
 
 ### Connect with me:
 
